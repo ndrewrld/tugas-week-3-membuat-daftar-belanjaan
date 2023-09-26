@@ -13,6 +13,9 @@ int main()
 	cout << setw(0) << "|02|indomie" << setw(15) << "   |7bungkus|" << endl;
 	cout << setw(0) << "|03|telur " << setw(16) << "     |5butir  |" << endl;
 	cout << setw(0) << "+--+------------+--------+" << endl;
-
+	
+	system("pause");
+	return 0;
+	
 
 }
